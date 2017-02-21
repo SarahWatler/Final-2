@@ -55,7 +55,7 @@ public class Blackjack2 {
 	            System.out.println();
 	            if (money == 0)
 	            {
-	                System.out.println("Looks like you've are out of money!");
+	                System.out.println("Looks like you are out of money!");
 	                break;
 	            }
 	        }
